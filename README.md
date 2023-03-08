@@ -27,6 +27,7 @@ side by side on two separate complex planes.
 ### Keyboard Operations
 Arrow keys to adjust cursor value as above; plus facility to
 adjust the *delta* adjustment.
-- + plus key: increase (double) the *delta* value 
-- - minus key: decrease (halve) the *delta* value
-- 
+- \+ plus key: increase (double) the *delta* value 
+- \- minus key: decrease (halve) the *delta* value
+
+## cpxFunPlot3
