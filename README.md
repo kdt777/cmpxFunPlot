@@ -2,8 +2,8 @@
 Dynamicly plot various functions on complex domain.
 
 Plot complex function  
-  **z2 = f(z1)**  
-where the value of z1 is provided by the position of the mouse  
+  *z2 = f(z1)*  
+where the value of *z1* is provided by the position of the mouse  
   (with fine adjustments performed with keyboard arrows)  
     
 Set the function to be plotted (and title) at @@@ eyecatcher
@@ -46,8 +46,8 @@ As well as arrows and plus and minus keys to adjust cursor value as above:
 - **j** to join the dots (flip on/off)
 - **o** to enable origin to be moved (flip on/off)
 - **s** to Save the current frame 
-### Plot3L - locus = line
+### ...3L (locus ~ Line)
 - option **o** allows the anchor point to be moved using arrow keys
-### Plot3C - locus = arc of circle
+### ...3C (locus ~ arc of Circle)
 - option **x** extends arc by 5 degrees
 - option **o** allows centre of circle to be moved using arrow keys
