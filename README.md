@@ -46,8 +46,8 @@ As well as arrows and plus and minus keys to adjust cursor value as above:
 - **j** to join the dots (flip on/off)
 - **o** to enable origin to be moved (flip on/off)
 - **s** to Save the current frame 
-###Plot3L - locus = line
+### Plot3L - locus = line
 - option **o** allows the anchor point to be moved using arrow keys
-###Plot3C - locus = arc of circle
+### Plot3C - locus = arc of circle
 - option **x** extends arc by 5 degrees
 - option **o** allows centre of circle to be moved using arrow keys
