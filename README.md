@@ -32,7 +32,7 @@ adjust the *delta* adjustment.
 - \+ plus key: increase (double) the *delta* value 
 - \- minus key: decrease (halve) the *delta* value
 
-## cpxFunPlot3_
+## cpxFunPlot3@ (where @ = L or C)
 Plot a domain locus of values *z* and their corresponding function 
 values *f(z)* side by side on two separate complex planes.  
 Allow various forms of compression of *f(z)* to be selected - 
@@ -42,5 +42,12 @@ None (linear); Rectangular (atan of real and imag parts); and Polar
 As well as arrows and plus and minus keys to adjust cursor value as above:
 - **c** to cycle through Compression mode (N/R/P)
 - **p** to increase the number of Points for the *z* locus
+- **x** to extend the domain locus
+- **j** to join the dots (flip on/off)
+- **o** to enable origin to be moved (flip on/off)
 - **s** to Save the current frame 
-
+###Plot3L - locus = line
+- option **o** allows the anchor point to be moved using arrow keys
+###Plot3C - locus = arc of circle
+- option **x** extends arc by 5 degrees
+- option **o** allows centre of circle to be moved using arrow keys
