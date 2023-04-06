@@ -25,7 +25,8 @@ This adjustment value *delta* is equivalent to 1 pixel.
 Plot the domain value *z* and its function value *f(z)* 
 side by side on two separate complex planes.  
 Allows for compression of *f(z)* side to allow all values to
-be displayed. 
+be displayed.  
+(See images cfp2_ZexpZ-11.tif, cfp2_ZexpZ-22.tif.)  
 ### Keyboard Operations
 Arrow keys to adjust cursor value as above; plus facility to
 adjust the *delta* adjustment.
@@ -38,6 +39,7 @@ values *f(z)* side by side on two separate complex planes.
 Allow various forms of compression of *f(z)* to be selected - 
 None (linear); Rectangular (atan of real and imag parts); and Polar 
 (atan of the radius in polar form). 
+(See images cfp3l_ZexpZ-1636P.tif, etc.)  
 ### Keyboard Operations
 As well as arrows and plus and minus keys to adjust cursor value as above:
 - **c** to cycle through Compression mode (N/R/P)
